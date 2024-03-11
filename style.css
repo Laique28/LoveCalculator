@@ -1,0 +1,29 @@
+h2 {
+    text-align: center;
+    color: red;
+}
+
+label,
+input {
+    margin: 5px 10px;
+    color: blue
+}
+
+button {
+    margin-left: 25%;
+    background-color: skyblue;
+    border: none;
+    border-radius: 20px;
+    margin-top: 5%;
+}
+
+button:hover {
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 20px;
+}
+
+body {
+    background-color: pink;
+}
